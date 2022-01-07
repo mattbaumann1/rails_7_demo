@@ -1,5 +1,9 @@
 # README
 
+This app was the RAILS 7 Demo by DHH
+https://www.youtube.com/watch?v=mpWFrUwAN88
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
